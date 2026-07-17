@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=KRISTINA%20AI%20SOLUTIONS%20BUILDER&fontColor=FFFFFF&fontSize=45&animation=fadeIn&desc=Building%20AI%20Products%20|%20Automation%20|%20LLM%20|%20SaaS&descSize=18&textBg=false
+
 # Hi, I'm Kristina 👋
 
 # AI Product Engineer | Fullstack Developer
