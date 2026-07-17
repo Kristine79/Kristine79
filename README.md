@@ -1,17 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=KRISTINA%20AI%20SOLUTIONS%20BUILDER&fontColor=FFFFFF&fontSize=45&animation=fadeIn&desc=Building%20AI%20Products%20%7C%20Automation%20%7C%20LLM%20%7C%20SaaS&descSize=18)
-# Hi, I'm Kristina 👋
-
-# AI Product Engineer | Fullstack Developer
-
-I build AI-powered products, SaaS applications and automation solutions.
-
-I combine **product thinking, UX/UI design, fullstack development and modern AI tools** to transform ideas into working digital products.
-
-From concept and architecture to MVP, deployment and iteration.
-
-![AI](https://img.shields.io/badge/AI-Product%20Engineer-blue)
-![LLM](https://img.shields.io/badge/LLM-Applications-purple)
-![Fullstack](https://img.shields.io/badge/Fullstack-Developer-green)
+per-green)
 ![SaaS](https://img.shields.io/badge/SaaS-Builder-orange)
 
 
@@ -265,4 +252,4 @@ GitHub:
 https://github.com/Kristine79
 
 Telegram:
-@your_username
+@krisdev13
