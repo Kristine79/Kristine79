@@ -1,3 +1,6 @@
+![AI](https://img.shields.io/badge/AI-Engineer-blue)
+![Fullstack](https://img.shields.io/badge/Fullstack-Developer-green)
+![LLM](https://img.shields.io/badge/LLM-Builder-purple)
 # Hi, I'm Kristina 👋
 
 ## AI Product Engineer | Fullstack Developer
@@ -212,4 +215,4 @@ GitHub:
 https://github.com/Kristine79
 
 Telegram:
-@your_username
+@krisdev13
