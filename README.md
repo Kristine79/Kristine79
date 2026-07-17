@@ -165,7 +165,7 @@ Features:
 - team workflows
 - IT knowledge organization
 
-🔗 https://www.stackbox.pro/
+🔗 https://www.stackbox.pro/app
 
 
 ---
@@ -183,38 +183,7 @@ Features:
 - contact sharing
 - mobile-first experience
 
-🔗 Add link
-
-
----
-
-## 🛒 LD LATTE
-
-### E-commerce brand experience
-
-Experience in building and developing an online retail brand.
-
-Areas:
-
-- product positioning
-- marketplace operations
-- customer experience
-- digital marketing
-- e-commerce processes
-
-
----
-
-## 🏪 Online Store Development
-
-Experience creating and managing online sales solutions.
-
-Focus:
-
-- product catalogs
-- customer journeys
-- sales processes
-- online business workflows
+🔗 https://avtovisitka.ru
 
 
 ---
@@ -294,6 +263,22 @@ Currently developing expertise in:
 - Tailwind CSS
 - shadcn/ui
 
+---
+
+# 🖥️ IT Infrastructure Experience
+
+Before focusing on AI product development, I worked with enterprise IT infrastructure and gained practical experience in:
+
+- Linux administration
+- server environments
+- system troubleshooting
+- corporate IT systems
+- databases and technical support processes
+- infrastructure reliability and security principles
+
+This background helps me build AI solutions with a better understanding of real business environments, deployment challenges and production requirements.
+
+---
 
 ## Backend & Data
 
@@ -309,16 +294,13 @@ Currently developing expertise in:
 - API integrations
 
 
-## Deployment & Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Vercel](https://img.shields.io/badge/Vercel-black)
-![Docker](https://img.shields.io/badge/Docker-blue)
-
+## Deployment & Infrastructure
 
 - GitHub
 - Vercel
-- Docker basics
+- Docker
+- Linux environments
+- Server administration basics
 - Cloud deployment
 - Git workflow
 
