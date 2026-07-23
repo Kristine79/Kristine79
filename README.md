@@ -49,7 +49,7 @@ An intelligent assistant for analyzing the job market, discovering opportunities
 - Structured data processing
 - AI-assisted workflows
 
-🔗 Coming soon
+🔗 https://career-radaar.vercel.app
 
 
 ---
