@@ -24,6 +24,70 @@ to transform ideas into practical solutions for people and businesses.
 
 # 🚀 Featured AI Projects
 
+## 🚀 LaunchPilot AI — AI Business Operating System
+
+🌐 Live Demo: https://launchpilot-ai-three.vercel.app/
+
+**Modular AI platform for building, analyzing and scaling digital products with specialized AI agents.**
+
+LaunchPilot AI is my flagship AI product engineering project — a business operating system that combines multi-agent AI workflows, project intelligence and automation tools in one workspace.
+
+The platform is designed around the idea of an AI team that helps founders and businesses move from idea to execution.
+
+### Key Features
+
+🤖 **Multi-Agent AI Architecture**
+- Specialized AI agents for strategy, analysis, knowledge management and evaluations
+- Modular agent system designed for future expansion
+
+🧠 **Project Intelligence Layer**
+- Each project has its own context, knowledge and workflows
+- Structured AI outputs instead of simple chat interactions
+
+📚 **Knowledge Management**
+- Project documentation and AI-generated insights
+- Foundation for future RAG-based capabilities
+
+📊 **Business Intelligence**
+- AI-powered analysis
+- Strategic recommendations
+- Product insights and evaluations
+
+🎯 **AI Content Studio (in development)**
+- AI content strategy generation
+- Audience analysis
+- Content planning workflows
+- Future multi-agent content production pipeline
+
+
+### Tech Stack
+
+**Frontend**
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+
+**Backend**
+- Node.js
+- Hono
+- PostgreSQL
+- Drizzle ORM
+
+**AI**
+- LLM API integrations
+- Multi-provider AI architecture
+- Agent-based workflows
+
+
+### Engineering Highlights
+
+- Designed modular SaaS architecture with isolated AI modules
+- Built reusable AI agent infrastructure
+- Implemented structured data flows between AI, backend services and frontend
+- Designed the platform for future multi-agent orchestration
+
 
 ## 🧭 Career Radar AI
 
@@ -364,4 +428,4 @@ GitHub:
 https://github.com/Kristine79
 
 Telegram:
-@your_username
+@krisdev13
