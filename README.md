@@ -22,6 +22,156 @@ to transform ideas into practical solutions for people and businesses.
 
 ---
 
+## 🚀 LeadForge AI — AI B2B Outreach Intelligence Platform
+
+🌐 Live Demo: https://your-demo-link.vercel.app/
+
+**AI-powered lead generation platform that automates company research, personalization and outbound preparation.**
+
+LeadForge AI is an AI SaaS platform designed to help B2B teams build a predictable outbound workflow.
+
+The platform combines lead management, website intelligence, AI personalization and outreach automation into one system.
+
+The core idea:
+transform raw company lists into researched, personalized and outreach-ready leads using AI.
+
+
+### Key Features
+
+🤖 **AI Research Pipeline**
+
+- Automated company website analysis
+- Extraction of company information, products and positioning
+- Source tracking for generated insights
+- Fallback strategy for unavailable websites
+- Research cache layer to avoid repeated requests
+
+
+🧠 **AI Personalization Engine**
+
+- Personalized outreach hooks based on company research
+- Context-aware email generation
+- AI-generated company insights
+- Structured outputs instead of generic AI text
+
+The system analyzes:
+- company website
+- product information
+- industry context
+- business signals
+
+and creates personalized messaging for each lead.
+
+
+📊 **Lead Intelligence & Management**
+
+- B2B lead database
+- Company profiles
+- Lead status tracking
+- Workspace-based organization
+- Search and filtering capabilities
+
+
+✉️ **AI Outreach Automation**
+
+- Multi-step email sequences
+- Personalized cold outreach messages
+- Different communication angles:
+  - introduction
+  - follow-up
+  - soft breakup
+
+
+✅ **Data Quality & Validation**
+
+- Email format validation
+- Domain consistency checks
+- Company/domain matching
+- Suspicious data detection
+- AI output quality validation
+
+
+### AI Architecture
+
+The platform is built around modular AI workflows:
+
+Lead Database
+↓
+Data Validation
+↓
+Website Research
+↓
+AI Personalization
+↓
+Outreach Generation
+↓
+Sales-ready Leads
+
+
+Future architecture direction:
+
+- specialized AI agents
+- RAG-based company knowledge
+- automated lead scoring
+- multi-agent sales workflows
+
+
+### Tech Stack
+
+**Frontend**
+
+- Next.js
+- TypeScript
+- React
+- Tailwind CSS
+- shadcn/ui
+
+
+**Backend**
+
+- Node.js
+- Prisma ORM
+- PostgreSQL
+- tRPC
+- API routes
+
+
+**AI**
+
+- OpenAI API
+- GPT models
+- OpenRouter
+- Multi-model experimentation
+- AI agents architecture
+- Structured AI outputs
+
+
+**Infrastructure**
+
+- Vercel
+- Neon PostgreSQL
+- GitHub Actions
+- Environment validation
+
+
+### Engineering Highlights
+
+- Designed full AI pipeline from raw leads to personalized outreach
+- Built website research system with caching and fallback mechanisms
+- Implemented production safety features:
+  - rate limiting
+  - input validation
+  - error sanitization
+  - workspace isolation
+
+- Created modular architecture ready for future AI agents and RAG integration
+- Focused on reliable AI output quality instead of simple text generation
+
+
+### Project Vision
+
+LeadForge AI moves outbound sales from manual research and generic messaging to an AI-assisted workflow where every lead receives relevant, personalized communication.
+
 # 🚀 Featured AI Projects
 
 ## 🚀 LaunchPilot AI — AI Business Operating System
