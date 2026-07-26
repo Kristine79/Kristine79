@@ -23,7 +23,7 @@ to transform ideas into practical solutions for people and businesses.
 ---
 
 
-# 🚀 Featured AI Projects
+#  🧠 Featured AI Projects
 
 ## 🚀 LeadForge AI — AI B2B Outreach Intelligence Platform
 
