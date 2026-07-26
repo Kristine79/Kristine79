@@ -204,7 +204,7 @@ The platform is designed around the idea of an AI team that helps founders and b
 - Strategic recommendations
 - Product insights and evaluations
 
-🎯 **AI Content Studio (in development)**
+🎯 **AI Content Studio**
 - AI content strategy generation
 - Audience analysis
 - Content planning workflows
