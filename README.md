@@ -27,7 +27,7 @@ to transform ideas into practical solutions for people and businesses.
 
 ## 🚀 LeadForge AI — AI B2B Outreach Intelligence Platform
 
-🌐 Live Demo: https://your-demo-link.vercel.app/
+🌐 Live Demo: https://github.com/Kristine79/LeadForge-AI
 
 **AI-powered lead generation platform that automates company research, personalization and outbound preparation.**
 
