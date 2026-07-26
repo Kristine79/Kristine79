@@ -22,6 +22,9 @@ to transform ideas into practical solutions for people and businesses.
 
 ---
 
+
+# 🚀 Featured AI Projects
+
 ## 🚀 LeadForge AI — AI B2B Outreach Intelligence Platform
 
 🌐 Live Demo: https://your-demo-link.vercel.app/
@@ -171,8 +174,6 @@ Future architecture direction:
 ### Project Vision
 
 LeadForge AI moves outbound sales from manual research and generic messaging to an AI-assisted workflow where every lead receives relevant, personalized communication.
-
-# 🚀 Featured AI Projects
 
 ## 🚀 LaunchPilot AI — AI Business Operating System
 
