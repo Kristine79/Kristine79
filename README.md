@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&section=header&text=KRISTINA%20AI%20SOLUTIONS%20BUILDER&fontColor=FFFFFF&fontSize=42&animation=fadeIn&desc=AI%20Products%20%7C%20LLM%20%7C%20Automation%20%7C%20SaaS&descSize=18)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&section=header&text=KRISTINA%20AI%20PRODUCT%20ENGINEER&fontColor=FFFFFF&fontSize=42&animation=fadeIn&desc=AI%20Products%20%7C%20Automation%20%7C%20SaaS%20%7C%20Fullstack&descSize=18)
 
 # 👋 Hi, I'm Kristina
