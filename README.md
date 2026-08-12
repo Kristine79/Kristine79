@@ -63,7 +63,7 @@ Principle: automate repetitive work, stop when a human is required, and never cl
 
 🎯 LeadForge AI — B2B Outreach Intelligence Platform
 
-🌐 Live Demo
+🌐 Live Demo https://leadforge-ai-eta.vercel.app
 
 AI SaaS platform for company research, lead intelligence, personalization and outbound preparation.
 
@@ -90,9 +90,11 @@ AI Personalization
 Outreach Generation
 ↓
 Sales-ready Leads
+
+
 🤖 LaunchPilot AI — Multi-Agent Product Intelligence Platform
 
-🌐 Live Demo
+🌐 Live Demo https://launchpilot-ai-three.vercel.app
 
 A modular AI platform for turning product ideas into structured product intelligence and execution workflows.
 
@@ -104,9 +106,11 @@ business analysis and recommendations
 AI Content Studio
 multi-provider LLM architecture
 modular SaaS architecture
+
+
 👗 LaunchFlow AI — Fashion Operations SaaS
 
-🌐 Live Demo
+🌐 Live Demo https://launchflow-ai.vercel.app
 
 AI-powered operating system for fashion teams covering collections, products, production, content, analytics and business workflows.
 
@@ -114,17 +118,20 @@ AI-powered operating system for fashion teams covering collections, products, pr
 
 AI-powered career intelligence platform for discovering and analyzing opportunities, matching vacancies to skills and portfolio, and supporting personalized applications.
 
-🌐 Live Demo
+🌐 Live Demo https://career-radaar.vercel.app 
 
 ⚖️ LegalFlow AI
 
 AI-powered LegalTech platform combining client management, legal workflows, AI assistance and business process automation.
 
-🌐 Live Demo
+🌐 Live Demo https://legalflowapp.replit.app/
 
 🧩 Additional Projects
 
 A selection of other products and experiments across different domains:
+
+LOOKSY -  Personal Style Intelligence system: a web app that builds a digital wardrobe from user photos and delivers AI outfit recommendations that are explainable — grounded in the user's real wardrobe, wear history, saved
+outfits and learned preferences (Fashion Memory).
 
 Car Estimator AI — AI-assisted vehicle evaluation and damage analysis. Demo
 Studio Sync — corporate calendars and meeting management. Demo
